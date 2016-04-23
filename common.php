@@ -12,6 +12,8 @@ function heading() {
 			<title>GeoCache Search</title>
 
 		</head>
+        
+        <h1>GeoCache Header</h1>
 
 		<body>
 	<?php
